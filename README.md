@@ -5,7 +5,7 @@ This is based on the work by Alceste Scala in Effpi
 
 ## Authors
 
-Effpi is developed by:
+Effpi was developed by:
 
   * Alceste Scalas — DTU Compute, Technical University of Denmark
     (`alcsc (at) dtu (dot) dk`)
