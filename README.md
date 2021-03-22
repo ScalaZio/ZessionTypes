@@ -1,13 +1,7 @@
-# Effpi: verified message-passing programs in Dotty
+# Zession Types: compile time checked protocols in Scala 3 and ZIO
 
-Effpi is an experimental toolkit for _strongly-typed_ concurrent and
-distributed programming in [Dotty](https://dotty.epfl.ch/) (a.k.a. the
-future Scala 3 programming language), with verification capabilities
-based on _type-level model checking_.
-
-The home page of Effpi is: <https://alcestes.github.io/effpi>
-
-**Note**: to compile Effpi, JDK 11 is recommended.
+This is based on the work by Alceste Scala in Effpi
+ <https://alcestes.github.io/effpi>
 
 ## Authors
 
